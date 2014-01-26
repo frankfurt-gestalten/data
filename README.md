@@ -1,4 +1,4 @@
-data
+Daten für Frankfurt Gestalten
 ====
 
-Verschiedene Datensätze, die wir nutzen
+Verschiedene Datensätze, die wir nutzen. Please share. :-)
