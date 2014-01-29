@@ -4,4 +4,7 @@ Daten für Frankfurt Gestalten
 Verschiedene Datensätze, die wir nutzen. Please share. :-)
 
 - Frankfurter Stadtteile als Polygon im GeoJson Format
-- Frankfurter Strassenliste sortiert nach Stadtteilen (Dank an Openstreetmaps - © OpenStreetMap-Mitwirkende)
+- Frankfurter Straßenliste sortiert nach Stadtteilen
+- Tabellarische Liste aller Straßen in Frankfurt nach OpenStreetMap
+
+Dank an Openstreetmaps - © OpenStreetMap-Mitwirkende
